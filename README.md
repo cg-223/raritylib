@@ -5,7 +5,7 @@ More info on this mod can be found in the appropriate forum channel in the Balat
 Documentation:
 CGLIBRARITIES (table)
   Contains key-value pairings like so:
-    myRarity1 = {
+    myRarity1 = { 
       name = "My Rarity",
       color = HEX("ffffff")
     }
